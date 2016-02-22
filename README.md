@@ -1,1 +1,2 @@
-# hello-world
+# hello-world This is my first time even trying to code! yikes...
+Im commiting the change that Im a newbie
